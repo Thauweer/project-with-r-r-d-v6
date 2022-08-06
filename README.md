@@ -3,7 +3,9 @@
 ## to start:
 
 git clone https://github.com/Thauweer/project-with-r-r-d-v6.git
+
 yarn install/npm install
+
 yarn start/npm start
 
 ## what was used from this library:
