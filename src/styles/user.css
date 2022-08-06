@@ -1,0 +1,24 @@
+.user-card {
+    border: 1px solid black;
+    height: 80px;
+    min-width: 160px;
+    padding: 0px 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.user-card>div {
+    display: inline-block;
+}
+
+.user-card>div> * {
+    margin: 5px 5px;
+}
+
+.btn-dark {
+    margin: 15px;
+}
+
+.link-secondary{
+    margin: 0 20px;
+}
